@@ -79,3 +79,5 @@ This dashboard provides a comprehensive view of the food delivery ecosystem and 
 
 ### 🔹 Customer Enagagement
 <img width="1161" height="687" alt="Screenshot 2026-03-30 121822" src="https://github.com/user-attachments/assets/4ff926ec-2a02-41a4-8296-4b55f7a52317" />
+<img width="794" height="482" alt="Screenshot 2026-04-06 215442" src="https://github.com/user-attachments/assets/363f4449-1276-436e-bfb3-5d2f1278b339" />
+
